@@ -1,4 +1,4 @@
 # netflix-clone
 This is my first gig repository
 <br>
-Author :Rehan hyder
+Author :Rehan hyder good
